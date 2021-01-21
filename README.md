@@ -1,1 +1,3 @@
 This site is about the second annual Cherry Pie Triathlon, which is an amateur race started by my family last summer in Glen Arbor, Michigan. In a bout of enthusiasm, my husband created a short-lived website for the race, despite it having only 5 participants. We hope to recruit a larger group of others to join us again this summer. And we need to recreate our website!
+
+Site domain: https://cherrypietri.netlify.app/
